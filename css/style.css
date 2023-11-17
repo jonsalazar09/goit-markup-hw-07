@@ -1787,7 +1787,7 @@ svg.close-black-18dp-1b {
   stroke: var(--NAVY-BLUE-modal);
 }
 .agreement-checkbox:checked + .agreement-check-icon {
-  background-image: url("../images/sprite/SVG/property-1-click.svg");
+  background-image: url("../Image/icons.svg#icon-property-1-click");
 
   fill: var(--OCEAN, #404bbf);
   stroke-width: 1px;
